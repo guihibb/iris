@@ -1,0 +1,116 @@
+body {
+    background-color: #EDF5FD;
+    font-family: Inter;
+    margin: 0;
+}
+
+h5 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+input {
+    display: none;
+}
+
+#botao-fechar {
+    display: none;
+}
+
+.navbar {
+    margin: auto;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    height: 130px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFF;
+    display: flex;
+    flex-direction: row;
+}
+
+.teclado {
+    padding-left: 25px;
+}
+
+.menu {
+    padding-right: 25px;
+}
+
+.bar {
+    padding-top: 400px;
+    padding-left: 25px;
+}
+
+.paragrafo {
+    color: #242424;
+}
+
+.comandos {
+    opacity: 80%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.comando {
+    padding-bottom: 12px;
+    display: flex;
+}
+
+.espaço-letra {
+    padding-right: 5px;
+    color: #A5A5A5;
+    font-weight: 700;
+}
+
+.espaço-letra-x {
+    font-size: 25px;
+    padding-right: 5px;
+    padding-left: 5px;
+    color: #A5A5A5;
+    font-weight: 700;
+}
+
+.espaço-letra-t {
+    font-size: 25px;
+    padding-right: 5px;
+    color: #A5A5A5;
+    font-weight: 700;
+}
+
+.comd {
+    color: #525252;
+    font-weight: 700;
+}
+
+.comd-t {
+    font-size: 25px;
+    color: #111111;
+    font-weight: 700;
+}
+
+.botao-lista {
+    align-items: center;
+    display: flex;
+    color: #111111;
+}
+
+.seta-direita {
+    padding-left: 10px;
+}
+
+.titule {
+    display: flex;
+    padding-top: 60px;
+}
+
+.container-input {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFFF;
+}
+
